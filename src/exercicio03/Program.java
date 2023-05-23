@@ -11,8 +11,12 @@ public class Program {
         // Variáveis com Valores definidos
         double salarioMin = 1212.00;
 
-        // Entrada de Dados
+        // Cabeçalho
+        System.out.println("-----------------------------------");
         System.out.println("Boas-vindas à Calculadora de Salários Mínimos!");
+        System.out.println("-----------------------------------");
+
+        // Entrada de dados
         System.out.println("Digite o valor do seu salário: ");
         double salarioRecebido = sc.nextDouble();
 
