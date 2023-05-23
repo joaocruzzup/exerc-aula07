@@ -2,6 +2,8 @@ package exercicio02;
 
 import java.util.Scanner;
 
+// Crie um algoritmo que receba a altura e peso do usuário, calcule seu IMC e exiba seu valor.
+// OBS:  Fórmula: IMC = peso/ (altura x altura).
 public class Program {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
