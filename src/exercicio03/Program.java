@@ -20,7 +20,7 @@ public class Program {
         double qtdSalarios = salarioRecebido/salarioMin;
 
         // Saída de dados
-        System.out.println("Você recebe " + qtdSalarios + " salários mínimos");
+        System.out.printf("Você recebe %.4f SM", qtdSalarios );
 
     }
 }
