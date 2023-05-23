@@ -4,22 +4,22 @@ Esse repositório é referente a criação de algoritmos criados para a lista de
 
 ### Algoritmos criados
 
-- Sistema de rendimento diário (exercício 01)
-Sistema de gerenciamento para o cálculo de Multas por quantidade de quilos em excesso de peixes (Confira melhor o enunciado no arquivo Program do exercício).
+1. Sistema de rendimento diário (exercício 01)
+  Sistema de gerenciamento para o cálculo de Multas por quantidade de quilos em excesso de peixes (Confira melhor o enunciado no arquivo Program do exercício).
 
-[Link da pasta do projeto](https://github.com/joaocruzzup/exerc-aula07/tree/main/src/exercicio01)
+  [Link da pasta do projeto](https://github.com/joaocruzzup/exerc-aula07/tree/main/src/exercicio01)
 
-- Calculadora de IMC (exercício 02): 
-Sistema para o cálculo do IMC (Confira melhor o enunciado no arquivo Program do exercício).
+2. Calculadora de IMC (exercício 02): 
+  Sistema para o cálculo do IMC (Confira melhor o enunciado no arquivo Program do exercício).
 
-[Link da pasta do projeto](https://github.com/joaocruzzup/exerc-aula07/tree/main/src/exercicio02)
+  [Link da pasta do projeto](https://github.com/joaocruzzup/exerc-aula07/tree/main/src/exercicio02)
 
-- Calculadora de Salários mínimos (exercício 03):
-Sistema para calcular a quantidade de salários mínimos que um trabalhador recebe com base no salário informado. (Confira melhor o enunciado no arquivo Program do exercício).
+3. Calculadora de Salários mínimos (exercício 03):
+  Sistema para calcular a quantidade de salários mínimos que um trabalhador recebe com base no salário informado. (Confira melhor o enunciado no arquivo Program do exercício).
 
-[Link da pasta do projeto](https://github.com/joaocruzzup/exerc-aula07/tree/main/src/exercicio03)
+  [Link da pasta do projeto](https://github.com/joaocruzzup/exerc-aula07/tree/main/src/exercicio03)
 
-- Conversor de Idade em Dias (exercício 04):
-Sistema para calcular a idade de uma pessoa (anos, meses e dias) em dias. (Confira melhor o enunciado no arquivo Program do exercício).
+4. Conversor de Idade em Dias (exercício 04):
+  Sistema para calcular a idade de uma pessoa (anos, meses e dias) em dias. (Confira melhor o enunciado no arquivo Program do exercício).
 
-[Link da pasta do projeto](https://github.com/joaocruzzup/exerc-aula07/tree/main/src/exercicio04)
+  [Link da pasta do projeto](https://github.com/joaocruzzup/exerc-aula07/tree/main/src/exercicio04)
