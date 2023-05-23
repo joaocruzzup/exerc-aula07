@@ -17,8 +17,12 @@ public class Program {
         double limite = 50.0;
         String nome = "João Papo-de-Pescado";
 
+        // Cabeçalho
+        System.out.println("-----------------------------------");
+        System.out.println("Boas-vindas ao Sistema de rendimento diário, " + nome + "!");
+        System.out.println("-----------------------------------");
+
         // Entrada de dados
-        System.out.println("Boas vindas ao Sistema de rendimento diário, " + nome + "!");
         System.out.println("Informe o peso do peixe:");
         double peso = sc.nextDouble();
 
@@ -28,6 +32,7 @@ public class Program {
         double valorPagamento = multa * excesso;
 
         // Saída de dados
+        System.out.println("-----------------------------------");
         System.out.println("O excesso calculado foi de: " + excesso + " Kg");
         System.out.println("Você terá que pagar: R$" + valorPagamento + " de multa");
     }
